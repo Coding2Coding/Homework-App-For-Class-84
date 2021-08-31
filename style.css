@@ -1,0 +1,16 @@
+#canvis {
+    border-width: 20px;
+    border-color: lightskyblue;
+    background-image: url("https://i.postimg.cc/bv5d35nK/racing.jpg");
+}
+
+#canvas { 
+    background: linear-gradient(rgb(204, 232, 255) 0%, rgb(232, 214, 255) 100%);
+    border-style: ridge;
+    border-color: rgb(172, 170, 255);
+    border-width: 20px;
+}
+
+#intro {
+    text-emphasis-color: rgb(172, 170, 255);
+}
